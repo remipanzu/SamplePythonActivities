@@ -15,19 +15,25 @@ type in what each line asks for you cleanly. Once you have inputted the X and Y 
 ## Inputs needed
 
 > x1, the X coordinate of point 1.
+
 > y1, the Y coordinate of point 1.
 
 > x2, the X coordinate of point 2.
+
 > y2, the Y coordinate of point 2.
 
 ## Sample output
 
 > Enter x1: 2
+
 > Enter y1: 3
+
 > Enter x2: 4
+
 > Enter y2: 5
+
 > The distance between the two points is: 2.83
 
 ## Author
 
-Decel Rain Belmes (drtbelmes31@src.pshs.edu.ph)
+The author of this repository and Python project is Decel Rain Belmes. (drtbelmes31@src.pshs.edu.ph)
