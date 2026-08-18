@@ -8,9 +8,12 @@ This program also makes use of the math library for practical and end-user frien
 ## How to run the program
 
 To run the program, first you must access the Colab file (Through here or by the link provided in the program file).
-Some familiarity with Colab is recommended, but not needed. Then, click on the arrow button on the top right of the code cell (rectangle containing the program).
-If it is running but not printinjg any output, please wait. Google Colab is loading Python 3 from its servers before execution. Now, once there is an output printed,
-type in what each line asks for you cleanly. Once you have inputted the X and Y values for each points, the program will then print its output.
+Some familiarity with Colab is recommended, but not needed. 
+
+Then, click on the arrow button on the top right of the code cell (rectangle containing the program).
+If it is running but not printing any output, please wait. Google Colab is loading Python 3 from its servers before execution. Now, once there is an output printed,
+type in what each line asks for you cleanly. 
+Once you have inputted the X and Y values for each points, the program will then print its output.
 
 ## Inputs needed
 
@@ -36,4 +39,4 @@ type in what each line asks for you cleanly. Once you have inputted the X and Y 
 
 ## Author
 
-The author of this repository and Python project is Decel Rain Belmes. (drtbelmes31@src.pshs.edu.ph)
+The author of this repository and Python project is Decel Rain Belmes from 8 - Narra. (drtbelmes31@src.pshs.edu.ph)
