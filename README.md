@@ -1,3 +1,3 @@
 # Projects
 
-## Hello World!
+Hello World!
