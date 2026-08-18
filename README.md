@@ -1,3 +1,3 @@
 # Projects
 
-Hello World!
+This is for Computer Science 2. 
