@@ -1,4 +1,4 @@
-# Sample Python Activities
+# Quarter 1 Formative Assessment
 
-This is for Computer Science 2. Keep all your sample works here.
-School-required works go in a different repository.
+This repository documents my 1st formative assessment for Quarter 1 of Computer Science 2. 
+[See the original Colab file.](https://colab.research.google.com/drive/1VGmMYVfsKDfLqvcDE1hsOWpzGQijS1S-?usp=sharing)
